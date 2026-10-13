@@ -1,0 +1,9 @@
+silakan pilih bangun datar
+1. persegi
+2. lingkaran
+3. segitiga
+pilih bangun datar: 5
+kamu salah pilih
+
+
+** Process exited - Return Code: 0 **
